@@ -1,0 +1,19 @@
+{
+    "name": "testing-extension-pack",
+    "displayName": "Testing Extension Pack",
+    "description": "Collection of extensions for testing only",
+    "version": "0.0.1",
+    "publisher": "Maruf",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "hbenl.vscode-test-explorer",
+		"hbenl.vscode-test-explorer-liveshare",
+		"emilylilylime.vscode-test-explorer-diagnostics",
+		"ms-vscode.test-adapter-converter"
+    ]
+}
