@@ -1,6 +1,6 @@
 {
-    "name": "testing-extension-pack",
-    "displayName": "Testing Extension Pack",
+    "name": "testing-module",
+    "displayName": "Testing Module",
     "description": "Collection of extensions for testing only",
     "version": "0.0.1",
     "publisher": "Maruf",
