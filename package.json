@@ -12,7 +12,6 @@
     ],
     "extensionPack": [ 
         "hbenl.vscode-test-explorer",
-		"hbenl.vscode-test-explorer-liveshare",
 		"emilylilylime.vscode-test-explorer-diagnostics",
 		"ms-vscode.test-adapter-converter"
     ]
