@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 ## This is the README for your extension pack "testing-extension-pack"
@@ -14,3 +15,7 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# Testing Module
+Contains extensions for Testing. This extension can be used as profiles; for example, if Testing is needed, then this can be enabled which will also enable all the extension related to it in bulk. 
+>>>>>>> eaa729b (Updated readme)
